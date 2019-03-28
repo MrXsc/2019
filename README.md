@@ -97,7 +97,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |Ozan Mirza|[GitHub](https://github.com/ozanmirza1/WWDC-2019-Neural-Networks)|[Youtube](https://youtu.be/1gk3QSbFVpU)|CoreML, Vision, UIKit, QuartzCore|Submitted|
 |[Qingyang Hu](https://twitter.com/hqy_2000)|[GitHub](https://github.com/hqy2000/Railway)||SpriteKit, PlaygroundBooks|Submitted|
 |[Raffaele Ascione](https://raffaeleascioneofficial.wordpress.com/)|[GitHub](https://github.com/raffesc/The-Mikado-game)|[YouTube](https://www.youtube.com/watch?v=Mz86J83I-Lo)|SceneKit, ARKit, UIKit|Submitted|
-|[Renan Magagnin](https://www.linkedin.com/in/renanmagagnin/)|[GitHub](https://github.com/RenanMagagnin/mindblower-wwdc19)|[YouTube](https://www.youtube.com/watch?v=xH9cn7BtG8k)|SpriteKit, AVFoundation |Submitted|
 |[Renata Faria](https://www.linkedin.com/in/renatafg-240996)|[GitHub](https://github.com/xReee/wwdc2019)|[YouTube](https://youtu.be/xcTyaG1eo98)|ARKit, UIGestures, AVFoundation, SceneKit |Submitted|
 |[Riley Walz](https://twitter.com/rtwlz)||[YouTube](https://www.youtube.com/watch?v=INF2xPXhTbY)|SpriteKit, GameplayKit, NaturalLanguage|Submitted|
 |[Sai Kambampati](https://twitter.com/Sai_K1065)||[YouTube](https://www.youtube.com/watch?v=QCREUCZlLd4)|UIKit, SceneKit, ARKit, CoreML|Submitted|
@@ -125,3 +124,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Yichen Cao](https://twitter.com/schemetrical)|[GitHub](https://github.com/Schemetrical/WWDC19)||ARKit, SceneKit, MultipeerConnectivity|Submitted|
 |[Zach Knox](https://twitter.com/zmknox)|[GitHub](https://github.com/zmknox/WWDC19-Scholarship-Application)|[YouTube](https://www.youtube.com/watch?v=mutncT3Q3F0)|AVFoundation, Core Image, Photos, UIKit|Submitted|
 |[Zhixing Zhang](https://twitter.com/Neo_Zhixing)|[GitHub](https://github.com/Neo-Zhixing/Orbitally-iOS-WWDC19)|[YouTube](https://www.youtube.com/watch?v=LrvdOtkK2WA)|SceneKit, Metal, MetalKit, ARKit|Submitted|
+|[Shuo Xiao](https://github.com/MrXsc)|[GitHub](https://github.com/MrXsc/SortPencils)||UIKit,AVFoundation,Playgoundbook|Submitted|
